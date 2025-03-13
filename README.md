@@ -1,2 +1,2 @@
 # GedAddon
-Addon de Gestão de Documentos para SAP Business One
+Addon de integração entre o Sharepoint e o SAP Business One
